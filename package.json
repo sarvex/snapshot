@@ -80,7 +80,7 @@
     "@vue/test-utils": "^2.4.1",
     "autoprefixer": "^10.4.15",
     "env-cmd": "^10.1.0",
-    "eslint": "8.46.0",
+    "eslint": "8.52.0",
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-vue": "7.20.0",
     "happy-dom": "^10.11.0",
